@@ -39,3 +39,5 @@ const greetTwo = function(name) {
 }
 
 //If you try to call a function expression before it is defined, you will get a TypeError because the variable is hoisted but not the function definition.
+
+//Hoisting happens in the global scope and withtin the function scope.
